@@ -1,15 +1,11 @@
-# dio_example
-
-Flutter example with dio
+# Flutter API (Dio + GetX)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Flutter basic API consume app using Dio library + GetX State-Management
+- API in-use: https://api.github.com/
+- GetX Library: https://pub.dev/packages/get
+- Dio Library: https://pub.dev/packages/dio
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
