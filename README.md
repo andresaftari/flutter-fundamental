@@ -1,7 +1,5 @@
 # Flutter API (Dio + GetX)
 
-## Getting Started
-
 Flutter basic API consume app using Dio library + GetX State-Management
 - API in-use: https://api.github.com/
 - GetX Library: https://pub.dev/packages/get
