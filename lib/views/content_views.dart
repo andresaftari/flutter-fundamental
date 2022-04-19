@@ -14,7 +14,7 @@ class SplashContent extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.grey,
-      margin: EdgeInsets.all(8),
+      margin: const EdgeInsets.all(8),
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 24),
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
